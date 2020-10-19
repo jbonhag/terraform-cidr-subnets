@@ -3,7 +3,7 @@
 TODO:
 
 - [x] Release new version
-- [ ] Re-use existing tag
+- [x] Re-use existing tag
 
 This is a simple Terraform module for calculating subnet addresses under a
 particular CIDR prefix.
