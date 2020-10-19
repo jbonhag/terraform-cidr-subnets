@@ -1,3 +1,4 @@
 # TODO
 
-- [ ] Release new version
+- [x] Release new version
+- [ ] Re-tag old version
