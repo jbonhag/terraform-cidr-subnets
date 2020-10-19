@@ -1,9 +1,9 @@
 # Terraform CIDR Subnets Module
 
-## TODO:
+TODO:
 
 - [x] Release new version
-- [ ] Re-tag old version
+- [ ] Re-use existing tag
 
 This is a simple Terraform module for calculating subnet addresses under a
 particular CIDR prefix.
